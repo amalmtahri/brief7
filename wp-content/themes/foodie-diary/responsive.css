@@ -1,0 +1,114 @@
+/**********************************************************
+responsive
+**********************************************************/
+@media only screen and (max-width: 1400px) and (min-width: 1200px) {
+  .slide-title a {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .mt-featured-single-item .item-title a {
+    font-size: 14px;
+  }
+
+  .mt-featured-single-item .item-title {
+    padding: 10px 18px;
+  }
+}
+
+@media only screen and (max-width: 980px) {
+  .slide-title a {
+    font-size: 30px;
+  }
+
+  .site-title {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .site-title {
+    font-size: 44px;
+  }
+
+  .mt-featured-single-item .item-title a {
+    font-size: 13px;
+  }
+
+  .mt-top-contact-wrap,
+  .mt-top-header-menu {
+    width: 100%;
+    justify-content: center;
+    margin: 4px 0;
+    order: 1;
+    display: flex;
+  }
+
+  #top-navigation ul li a,
+  .mt-top-contact-wrap a {
+    margin: 0 10px;
+  }
+
+  .slide-content-wrap {
+    width: 80%;
+  }
+
+  .slide-content-block {
+    width: 100%;
+  }
+
+  .navigation.pagination .nav-links a.page-numbers {
+    width: auto;
+  }
+
+  .no-sidebar #mt-masonry article {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .site-branding {
+    width: 60%;
+  }
+
+  .slide-title a {
+    font-size: 24px;
+  }
+
+  .slide-title a {
+    font-size: 24px;
+  }
+
+  .mt-column-3 {
+    width: 47%;
+  }
+
+  .slide-content-block {
+    width: 100%;
+    padding: 20px 0;
+  }
+
+  .no-sidebar #mt-masonry article {
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 480px) {
+  .site-title {
+    font-size: 28px;
+  }
+
+  .site-description {
+    font-size: 12px;
+  }
+
+  .mt-column-3 {
+    width: 97%;
+  }
+
+  .slider-btn:hover {
+    padding: 6px 24px;
+  }
+}

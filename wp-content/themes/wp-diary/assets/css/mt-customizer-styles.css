@@ -1,0 +1,78 @@
+/*=================================================
+            Radio Image Control
+=================================================*/
+.customize-control-kirki-radio-image input + label .image-clickable {
+    margin:        0;
+    border-radius: 0;
+    border:        none;
+    background:    transparent;
+}
+
+/*.customize-control-radio-image .ui-button-text { padding: 0; }*/
+
+.customize-control-kirki-radio-image input + label .image-clickable,
+.customize-control-kirki-radio-image input:checked + label img {
+    box-sizing: border-box;
+    max-width:  100%;
+    height:     auto;
+    padding:    2px;
+    border:     3px solid transparent;
+}
+
+.customize-control-kirki-radio-image input + label .image-clickable:hover,
+.customize-control-kirki-radio-image input + label .image-clickable:focus {
+    border-color: #ddd;
+}
+
+.customize-control-kirki-radio-image input:checked + label img {
+    border-color: #00a0d2;
+    display: block;
+}
+
+.customize-control-kirki-radio-image .image label {
+    margin-right: 10px;
+}
+
+.customize-control-kirki-radio-image input:checked + label img {
+    box-shadow: none;
+}
+.customize-control-kirki-radio-image > .image {
+    display: block;
+}
+
+/*=================================================
+            Upsell Button
+=================================================*/
+li#accordion-section-theme_upsell h3.accordion-section-title {
+    background-color: #ec9fa1 !important;
+    border-left-color: #de7b85 !important;
+}
+
+#accordion-section-theme_upsell h3 a:after {
+    content: '\f345';
+    color: #fff;
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    z-index: 1;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title a {
+    display: block;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title a:focus {
+    box-shadow: none;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title:hover {
+    background-color: #de7b85 !important;
+}

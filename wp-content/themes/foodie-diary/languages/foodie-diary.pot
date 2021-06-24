@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodie Diary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-25 15:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.3.2"
+
+#. Name of the theme
+#: footer.php:49 customizer/customizer.php:174
+msgid "Foodie Diary"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:56
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:32
+msgid "Top Menu"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Annie Use Your Telescope translate this to 'off'. Do not translate into your own language.
+#: functions.php:57
+msgctxt "Annie Use Your Telescope: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto Condensed translate this to 'off'. Do not translate into your own language.
+#: functions.php:65
+msgctxt "Roboto Condensed: on or off"
+msgid "on"
+msgstr ""
+
+#: customizer/customizer.php:22
+msgid "Top Header"
+msgstr ""
+
+#: customizer/customizer.php:32
+msgid "Enable Top Header"
+msgstr ""
+
+#: customizer/customizer.php:44
+msgid "Contact Number"
+msgstr ""
+
+#: customizer/customizer.php:46
+msgid "(541) 754-3010"
+msgstr ""
+
+#: customizer/customizer.php:70
+msgid "Email Address"
+msgstr ""
+
+#: customizer/customizer.php:102 customizer/customizer.php:161
+msgid "Primary Color"
+msgstr ""
+
+#: customizer/customizer.php:112
+msgid "Featured Section"
+msgstr ""
+
+#: customizer/customizer.php:120
+msgid "Featured Items"
+msgstr ""
+
+#: customizer/customizer.php:121
+msgid "Drag & Drop items to re-arrange the order"
+msgstr ""
+
+#: customizer/customizer.php:125
+msgid "Item"
+msgstr ""
+
+#: customizer/customizer.php:127
+msgid "Add new item"
+msgstr ""
+
+#: customizer/customizer.php:139
+msgid "Item Image"
+msgstr ""
+
+#: customizer/customizer.php:143
+msgid "Item Title"
+msgstr ""
+
+#: customizer/customizer.php:147
+msgid "Item Link"
+msgstr ""
+
+#: customizer/customizer.php:172
+msgid "Copyright Text"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Foodie Diary is a Child Theme of WP Diary crafted for your blog, portfolio "
+"or news magazine. It has a unique, modern, light and clean design which will "
+"make your website look awesome. It is completely built on Customizer which "
+"allows you to customize most of the theme settings easily with live previews."
+" This theme comes with 3 different archive layouts and other exciting "
+"features that allow you to customize the theme easily without coding "
+"knowledge. Get free support at https://mysterythemes."
+"com/support/forum/themes/free-themes/ and check the demo at http://demo."
+"mysterythemes.com/child-theme/foodie-diary/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/foodie-diary"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""
